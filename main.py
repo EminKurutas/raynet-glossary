@@ -1,4 +1,5 @@
 # Raynet Junior Tech Glossary
+# Contributor: Kerem
 tech_dictionary = {
  "Python": "A high-level programming language.",
  "Git": "A distributed version control system.",
