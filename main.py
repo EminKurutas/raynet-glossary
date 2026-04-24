@@ -1,3 +1,4 @@
+#Developer: Emin
 # Raynet Junior Tech Glossary
 # Contributor: Kerem
 tech_dictionary = {
