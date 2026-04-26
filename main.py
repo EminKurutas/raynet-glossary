@@ -1,3 +1,4 @@
+#Developer: Emin
 # Raynet Junior Tech Glossary
 tech_dictionary = {
  "Python": "A high-level programming language.",
